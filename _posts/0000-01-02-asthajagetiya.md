@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Men plan, and God laughs!
 Use the left arrow to go back!
